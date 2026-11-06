@@ -209,3 +209,4 @@ NODEFLARE_TEST_POSTGRES_URL='postgres://user:password@127.0.0.1:5432/postgres' \
 ## License
 
 MIT
+test
